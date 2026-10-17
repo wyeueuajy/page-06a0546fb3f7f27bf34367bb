@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-705d840117.fahrdfh.cn/sitemap.xml

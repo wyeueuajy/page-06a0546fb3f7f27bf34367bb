@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "212c8e9c01979f9ee9faacd7",
+  "owner": "wyeueuajy",
+  "repo": "page-06a0546fb3f7f27bf34367bb",
+  "title": "探索者",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "06a0546fb3f7f27bf34367bb",
+      "a": "探索者",
+      "b": "",
+      "entity": "探索者",
+      "brand": "探索者",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9b427e230e1b24c79e7466481c285db608791af5c405f91694f5521f30ffab72",
+      "content": {
+        "keyword1": "探索者",
+        "keyword2": "",
+        "primary_entity": "探索者",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "探索者提供清晰可计量的跨境网络加速服务，包含基础版、旗舰版与团队版套餐，支持多设备同时在线、原生流媒体解锁与企业定制路由。",
+          "AI_DESCRIPTION": "探索者提供清晰可计量的跨境网络加速服务，包含基础版、旗舰版与团队版套餐，支持多设备同时在线、原生流媒体解锁与企业定制路由。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#f4f4f6;--ink:#1a1a22;--muted:#6a6a78;--accent:#7c3aed;--line:#c9c9d4;--paper:#ffffff}\n*{box-sizing:border-box}\nbody{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.7;font-size:16px}\nmain{max-width:880px;margin:0 auto;padding:32px 20px 80px}\nh1,h2,h3{margin:0 0 12px;font-weight:700;letter-spacing:-0.01em}\nh1{font-size:clamp(28px,5vw,40px)}\nh2{font-size:24px;margin-top:48px;border-bottom:1px solid var(--line);padding-bottom:8px}\nh3{font-size:18px}\np{margin:0 0 14px}\na{color:var(--accent);text-decoration:none}\nul{margin:0;padding-left:20px}\nli{margin-bottom:6px}\nsmall{color:var(--muted)}\n.hero{padding:20px 0 28px;border-left:3px solid var(--accent);padding-left:20px;margin-bottom:28px}\n.timeline{list-style:none;padding:0;margin:24px 0 0}\n.timeline li{position:relative;padding:0 0 22px 26px;border-left:1px dashed var(--line)}\n.timeline li:before{content:\"\";position:absolute;left:-5px;top:6px;width:9px;height:9px;border-radius:50%;background:var(--accent)}\n.timeline time{font-size:13px;color:var(--muted);display:block;margin-bottom:4px}\n.jumps{display:flex;flex-wrap:wrap;gap:10px;margin:24px 0 40px}\n.jumps a{border:1px dashed var(--line);padding:6px 12px;border-radius:6px;background:var(--paper);font-size:14px}\n.ticket{border:1px dashed var(--line);background:var(--paper);padding:24px 26px;margin:0 0 22px;border-radius:8px;position:relative}\n.ticket:before,.ticket:after{content:\"\";position:absolute;width:22px;height:22px;background:var(--bg);border:1px dashed var(--line);border-radius:50%}\n.ticket:before{left:-12px;top:50%;transform:translateY(-50%)}\n.ticket:after{right:-12px;top:50%;transform:translateY(-50%)}\n.ticket header{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;margin-bottom:14px}\n.price{font-size:22px;font-weight:700}\n.feature-tag{display:inline-block;font-size:12px;color:var(--paper);background:var(--accent);padding:2px 10px;border-radius:20px;margin-left:10px}\n.feature-list{margin:12px 0 0;padding-left:18px}\ndetails{border:1px dashed var(--line);background:var(--paper);padding:16px 20px;margin-bottom:14px;border-radius:8px}\nsummary{cursor:pointer;font-weight:600}\ndetails[open] summary{margin-bottom:10px;color:var(--accent)}\n.note{background:var(--paper);border:1px dashed var(--line);padding:18px 20px;border-radius:8px}\n.steps{counter-reset:step;margin:20px 0;padding:0;list-style:none}\n.steps li{counter-increment:step;padding:10px 0 10px 34px;position:relative}\n.steps li:before{content:counter(step);position:absolute;left:0;top:8px;width:24px;height:24px;background:var(--accent);color:#fff;border-radius:50%;text-align:center;font-size:13px;line-height:24px}\nfooter{margin-top:60px;border-top:1px solid var(--line);padding-top:20px;font-size:13px;color:var(--muted)}\n@media (max-width:520px){\n  .ticket{padding:20px 18px}\n  .ticket:before,.ticket:after{display:none}\n}\n</style><main>\n  <section class=\"hero\" id=\"top\">\n    <h1>探索者</h1>\n    <p>跨境网络的务实之选。按月计费、按量配速，明明白白的线路账单。</p>\n    <p>以下记录了探索者从 2021 年至今的关键节点，帮助你快速判断它是否值得托付日常跨境通信。</p>\n    <ol class=\"timeline\">\n      <li><time>2021 年 3 月</time><p>探索者项目立项，聚焦个人用户的跨境访问稳定性与隐私合规。</p></li>\n      <li><time>2022 年 1 月</time><p>上线第一批 IPLC 专线节点，覆盖东亚与北美主要城市。</p></li>\n      <li><time>2023 年 6 月</time><p>推出旗舰版套餐，增加原生流媒体解锁与游戏加速优化。</p></li>\n      <li><time>2024 年 9 月</time><p>团队版上线，面向小型团队与企业提供定制路由和专属客户经理。</p></li>\n    </ol>\n  </section>\n\n  <nav class=\"jumps\">\n    <a href=\"#plans\">查看套餐</a>\n    <a href=\"#usage\">使用方式</a>\n    <a href=\"#faq\">常见问题</a>\n    <a href=\"#download\">客户端与下载</a>\n  </nav>\n\n  <section id=\"plans\">\n    <h2>套餐与价格</h2>\n    <p>三档套餐均为月付制，可随时升级或降级；按年付享受约 **两个月免费** 的折扣。所有流量均为高速计量，不限制访问目标类型。</p>\n\n    <article class=\"ticket\">\n      <header>\n        <div>\n          <h3>基础版</h3>\n          <small>适合轻度浏览与日常通信</small>\n        </div>\n        <div class=\"price\">¥15/月</div>\n      </header>\n      <p><small>按年付仅需 ¥150/年</small></p>\n      <ul class=\"feature-list\">\n        <li>每月 100GB 高速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>接入普通线路节点池</li>\n      </ul>\n    </article>\n\n    <article class=\"ticket\">\n      <header>\n        <div>\n          <h3>旗舰版<span class=\"feature-tag\">推荐</span></h3>\n          <small>适合重度流媒体与游戏用户</small>\n        </div>\n        <div class=\"price\">¥35/月</div>\n      </header>\n      <p><small>按年付仅需 ¥350/年</small></p>\n      <ul class=\"feature-list\">\n        <li>每月 300GB 高速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7×24 优先工单支持</li>\n      </ul>\n    </article>\n\n    <article class=\"ticket\">\n      <header>\n        <div>\n          <h3>团队版</h3>\n          <small>适合小型团队与企业协作</small>\n        </div>\n        <div class=\"price\">¥85/月</div>\n      </header>\n      <p><small>按年付仅需 ¥850/年</small></p>\n      <ul class=\"feature-list\">\n        <li>每月 1000GB 高速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n  </section>\n\n  <section id=\"usage\">\n    <h2>使用方式</h2>\n    <p>从开通到首次连接，通常不超过十分钟。以下步骤适用于所有套餐。</p>\n    <ol class=\"steps\">\n      <li>选择套餐并完成付款，系统自动生成探索者账号。</li>\n      <li>在官网「我的订阅」中复制专属订阅链接。</li>\n      <li>下载并安装对应平台的客户端，粘贴订阅链接并更新节点。</li>\n      <li>从节点列表中选择目标地区，点击连接即可开始使用。</li>\n      <li>如需切换设备，在新设备登录同一账号即可同步订阅。</li>\n    </ol>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <details>\n      <summary>流量用完后还能上网吗？</summary>\n      <p>当月流量用尽后，连接会被暂停，直到次月自动恢复。如需提前恢复，可在控制台单独购买流量加油包，按实际用量计费。</p>\n    </details>\n    <details>\n      <summary>可以同时在不同设备上使用吗？</summary>\n      <p>可以。基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线。超过上限时，最早连接的设备会被自动下线，不会锁定账号。</p>\n    </details>\n    <details>\n      <summary>支持哪些客户端平台？</summary>\n      <p>支持 Windows、macOS、Linux、Android、iOS 等主流平台。客户端采用通用协议，可使用任意兼容客户端导入订阅链接，不强制安装专属软件。</p>\n    </details>\n    <details>\n      <summary>套餐是否支持退款？</summary>\n      <p>探索者提供开通后 24 小时内的退款保障，前提是累计使用流量不超过 5GB。超过该范围后不再支持退款，但可随时取消续费。</p>\n    </details>\n    <details>\n      <summary>节点速度是否会随使用时长下降？</summary>\n      <p>不会。所有套餐均采用计量不限速策略，月内速度保持一致。高峰时段旗舰版与团队版享有专线优先调度，基础版在普通节点池中均衡分配。</p>\n    </details>\n  </section>\n\n  <section id=\"download\">\n    <h2>客户端与下载</h2>\n    <div class=\"note\">\n      <p>探索者不强制绑定专属客户端，采用通用订阅协议，兼容主流开源客户端。你可以在以下平台中选择合适的工具导入订阅：</p>\n      <ul>\n        <li>Windows：使用通用客户端导入订阅链接</li>\n        <li>macOS：使用通用客户端导入订阅链接</li>\n        <li>Android：使用通用客户端导入订阅链接</li>\n        <li>iOS：使用通用客户端导入订阅链接</li>\n        <li>Linux：使用通用客户端导入订阅链接</li>\n      </ul>\n      <p><small>具体客户端名称与下载地址，请登录探索者控制台查看「客户端指南」。未提供官方下载渠道的平台，可使用任意兼容客户端。</small></p>\n    </div>\n  </section>\n\n  <footer>\n    <p>探索者 · 跨境网络务实之选 · 本页仅作信息展示，不构成交易承诺。</p>\n  </footer>\n</main>",
+          "hash": "87d39c94d89d843afccabcdce0bf1c1e676fdaa09c51753583ba249e092d36be",
+          "seo": {
+            "title": "探索者 — 务实网络的跨境加速与隐私通信服务",
+            "keywords": "探索者,跨境网络,专线加速,隐私通信,网络套餐,IPLC专线,流媒体解锁",
+            "description": "探索者提供清晰可计量的跨境网络加速服务，包含基础版、旗舰版与团队版套餐，支持多设备同时在线、原生流媒体解锁与企业定制路由。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "413",
+            "hero": "6 纵向时间线引入",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fahrdfh.cn",
+    "host": "p-705d840117.fahrdfh.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c937670b9cc2555c16558cb891c3f646b1f6ba4e105fadf33822ce702cb625a5",
+    "sitemap.xml": "1f2358bfa9dd7b7d159a38039e9234a54c4962ddd24b473f5d209fa575b20a4a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fcc43db953544446ca8edefc1909a07d7b1e07f5792faeac7e1bee0a7e5b61f0",
+    "robots.txt": "998435905678c5343f6d8e55b9b61b5c611a49f08d782e7f98eec3e48ac8f54c",
+    "01e749b4334e1020b4f1deb91ead6024.txt": "a0d6412410caab287f1d74ea8faa0825bd314f33f2c3970c864a3b1247b6697f"
+  },
+  "revision": "4a3b9f2a166dc6c7bf4019db0e7481b498d559e6b63d837fd1b28766f20b47bb"
+}
